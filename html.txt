@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+<h1>Personal Information</h1>
+<h2>Personal Information</h2>
+
+</head>
+
+<body>
+
+            <p><strong>Name:</strong>Kamaleshwar p</p>
+            <p><strong>Email:</strong>kamaleshwarkamalrtr1316@gmail.com</p>
+            <p><strong>phone:</strong>9487958952</p>
+            <p><strong>company:</strong>Face Prep Campus</p>
+            <p><strong>Department:</strong>BSC.CS(AIML)</p>
+            <P><strong>Desgnation:</strong>Computer Science</P>
+            
+            <p>&#169;2026 kamaleshwar P</p>
+</body>
